@@ -31,7 +31,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-sfml-template/box2d-2.4.1/[Ll]ib
+sfml-template/box2d-2.4.1/[Ll]ib/
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
